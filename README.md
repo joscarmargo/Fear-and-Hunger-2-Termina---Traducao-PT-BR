@@ -3,10 +3,7 @@ Instruções de Instalação da Tradução (PT-BR) de Fear & Hunger 2: Termina (
 
 Passo 1: Localizar o Diretório do Jogo
 
-Abra a pasta onde Fear & Hunger 2: Termina está instalado. Por padrão, o jogo costuma estar em: Steam: C:\Program Files (x86)\Steam\steamapps\common\Fear & Hunger 2 Termina
-                             ou 
-
-Localize onde você descompactou ou instalou o jogo.
+Abra a pasta onde Fear & Hunger 2: Termina está instalado. Por padrão, o jogo costuma estar em: Steam: C:\Program Files (x86)\Steam\steamapps\common\Fear & Hunger 2 Termina\ ou Localize onde você descompactou ou instalou o jogo.
 
 Passo 2: Substituir os Arquivos de Tradução
 
